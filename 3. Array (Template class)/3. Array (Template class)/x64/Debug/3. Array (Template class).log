@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Programming tools\ObjectOrientedProgramming\3. Array (Template class)\3. Array (Template class)\Source.cpp(212,21): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  3. Array (Template class).vcxproj -> D:\Programming tools\ObjectOrientedProgramming\3. Array (Template class)\x64\Debug\3. Array (Template class).exe
